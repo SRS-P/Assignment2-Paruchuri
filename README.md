@@ -29,6 +29,9 @@ recommended cities
 | city | loc  | time travel |
 | :--- |  --- | ---         |
 |delhi | india gate| 2hrs flight|
+|mumbai | taj| 3hrs flight|
+|kolkata | temple| 3.5hrs flight|
+|vizag | beach| 1hrs flight|
 
 
 
