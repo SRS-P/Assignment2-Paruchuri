@@ -22,3 +22,13 @@ near by places are
 **[my link](https://github.com/SRS-P/Assignment2-Paruchuri/blob/main/AboutMe.md)**
 
 
+## Tables
+
+recommended cities
+
+| city | loc  | time travel |
+| :--- |  --- | ---         |
+|delhi | india gate| 2hrs flight|
+
+
+
