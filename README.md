@@ -12,3 +12,9 @@ RG airport
 1. go straight
 2. take NH-32
 3. you will come near cross junction.ahead museum is loacted.
+
+## heading2
+near by places are
+* fort
+* film city
+* lumbini park
