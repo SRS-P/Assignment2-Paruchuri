@@ -38,6 +38,7 @@ recommended cities
 ---
 ### Quotes
 > life is like riding a bicycle, to keep balance keep moving *einstein*
+
 > Always remember you are unique *margaret head*
 
 ---
